@@ -1,0 +1,52 @@
+2017/03/15 13:44:51 [notice] 32526#0: signal process started
+2017/03/15 13:45:00 [notice] 32676#0: signal process started
+2017/03/15 14:26:39 [notice] 39217#0: signal process started
+2017/03/15 14:28:00 [notice] 39666#0: signal process started
+2017/03/15 14:29:47 [notice] 40406#0: signal process started
+2017/03/15 14:31:11 [notice] 40949#0: signal process started
+2017/03/15 14:31:27 [notice] 41043#0: signal process started
+2017/03/15 14:32:00 [notice] 41291#0: signal process started
+2017/03/15 14:32:13 [notice] 41420#0: signal process started
+2017/03/15 14:33:11 [notice] 41965#0: signal process started
+2017/03/15 14:34:21 [emerg] 42574#0: directive "content_by_lua_block" has no opening "{" in ././routes/app_routes.conf:2
+2017/03/15 14:34:50 [notice] 42760#0: signal process started
+2017/03/15 14:35:14 [notice] 42984#0: signal process started
+2017/03/15 14:38:29 [notice] 43882#0: signal process started
+2017/03/15 14:38:29 [notice] 43883#0: signal process started
+2017/03/15 14:38:29 [notice] 43884#0: signal process started
+2017/03/15 14:40:14 [notice] 44325#0: signal process started
+2017/03/15 14:40:27 [notice] 44606#0: signal process started
+2017/03/15 14:44:34 [emerg] 45656#0: invalid number of arguments in "set_by_lua_block" directive in ././routes/app_routes.conf:2
+2017/03/15 14:44:40 [emerg] 45760#0: invalid number of arguments in "set_by_lua_block" directive in ././routes/app_routes.conf:2
+2017/03/15 14:45:50 [emerg] 46459#0: invalid variable name "foo" in ././routes/app_routes.conf:4
+2017/03/15 14:45:59 [notice] 46578#0: signal process started
+2017/03/15 14:45:59 [error] 46578#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 14:46:03 [notice] 46674#0: signal process started
+2017/03/15 14:46:03 [error] 46674#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 14:47:01 [notice] 47164#0: signal process started
+2017/03/15 14:49:05 [emerg] 47681#0: invalid number of arguments in "access_by_lua_block" directive in ././routes/app_routes.conf:2
+2017/03/15 14:49:08 [emerg] 47689#0: invalid number of arguments in "access_by_lua_block" directive in ././routes/app_routes.conf:2
+2017/03/15 14:49:37 [notice] 47919#0: signal process started
+2017/03/15 14:49:53 [notice] 48116#0: signal process started
+2017/03/15 14:50:10 [notice] 48268#0: signal process started
+2017/03/15 14:50:13 [notice] 48352#0: signal process started
+2017/03/15 14:50:28 [notice] 48449#0: signal process started
+2017/03/15 14:52:26 [notice] 50253#0: signal process started
+2017/03/15 14:52:51 [notice] 50412#0: signal process started
+2017/03/15 14:53:23 [notice] 50736#0: signal process started
+2017/03/15 14:53:48 [notice] 50889#0: signal process started
+2017/03/15 14:54:37 [notice] 51243#0: signal process started
+2017/03/15 15:09:39 [notice] 56103#0: signal process started
+2017/03/15 15:12:06 [notice] 56625#0: signal process started
+2017/03/15 15:12:48 [notice] 56844#0: signal process started
+2017/03/15 15:14:17 [notice] 57211#0: signal process started
+2017/03/15 15:18:07 [notice] 58405#0: signal process started
+2017/03/15 15:18:57 [notice] 58699#0: signal process started
+2017/03/15 15:20:04 [notice] 59057#0: signal process started
+2017/03/15 15:20:05 [notice] 59071#0: signal process started
+2017/03/15 15:20:09 [notice] 59122#0: signal process started
+2017/03/15 15:20:18 [notice] 59240#0: signal process started
+2017/03/15 15:20:42 [notice] 59555#0: signal process started
+2017/03/15 15:20:50 [notice] 59678#0: signal process started
+2017/03/15 15:21:30 [notice] 59846#0: signal process started
+2017/03/15 15:21:48 [notice] 60018#0: signal process started
