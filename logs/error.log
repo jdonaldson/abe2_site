@@ -50,3 +50,50 @@
 2017/03/15 15:20:50 [notice] 59678#0: signal process started
 2017/03/15 15:21:30 [notice] 59846#0: signal process started
 2017/03/15 15:21:48 [notice] 60018#0: signal process started
+2017/03/15 16:40:30 [notice] 83309#0: signal process started
+2017/03/15 16:40:30 [error] 83309#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 18:05:19 [emerg] 95930#0: "init_by_lua_block" directive is not allowed here in ././routes/app_routes.conf:1
+2017/03/15 18:05:27 [notice] 96007#0: signal process started
+2017/03/15 18:05:27 [error] 96007#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 18:06:08 [emerg] 96406#0: "location" directive is not allowed here in ././app/app.conf:2
+2017/03/15 18:06:09 [emerg] 96432#0: "location" directive is not allowed here in ././app/app.conf:2
+2017/03/15 18:07:49 [emerg] 96883#0: open() "././app/init.conf" failed (2: No such file or directory) in ./dev.ngx.conf:21
+2017/03/15 18:07:57 [emerg] 96951#0: open() "././app/init.conf" failed (2: No such file or directory) in ./dev.ngx.conf:21
+2017/03/15 18:08:23 [notice] 97207#0: signal process started
+2017/03/15 18:08:23 [error] 97207#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 18:08:39 [notice] 97253#0: signal process started
+2017/03/15 18:08:39 [error] 97253#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 18:45:57 [notice] 3021#0: signal process started
+2017/03/15 18:45:57 [error] 3021#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 18:47:16 [error] 3663#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:47:23 [error] 3805#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:47:50 [error] 3975#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:47:58 [error] 3998#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:47:58 [error] 4005#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:48:44 [error] 4445#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:49:06 [error] 4668#0: init_by_lua error: init_by_lua:1: attempt to call field 'create' (a nil value)
+stack traceback:
+	init_by_lua:1: in main chunk
+2017/03/15 18:49:24 [notice] 4862#0: signal process started
+2017/03/15 18:49:24 [error] 4862#0: open() "./logs/nginx.pid" failed (2: No such file or directory)
+2017/03/15 18:51:15 [notice] 5649#0: signal process started
+2017/03/15 18:56:35 [notice] 6531#0: signal process started
+2017/03/15 18:57:17 [notice] 6895#0: signal process started
+2017/03/15 19:01:09 [notice] 7923#0: signal process started
+2017/03/15 19:01:22 [notice] 8105#0: signal process started
+2017/03/15 19:03:04 [notice] 8494#0: signal process started
+2017/03/15 19:03:24 [notice] 8632#0: signal process started
+2017/03/15 19:05:05 [notice] 9543#0: signal process started
+2017/03/15 19:05:18 [notice] 9687#0: signal process started
